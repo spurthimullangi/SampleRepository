@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 2666-80AA
-
- Directory of C:\Spurthi\WorkSpace\GIT
-
-09/02/2017  05:56 AM    <DIR>          .
-09/02/2017  05:56 AM    <DIR>          ..
-09/02/2017  05:56 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   9,012,813,824 bytes free
+change 1
